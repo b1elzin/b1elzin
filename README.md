@@ -15,13 +15,19 @@ Tenho experiência em telecom, provisionamento, M2M/IoT e cloud, atuando da defi
 - Observabilidade, rastreabilidade e recuperação de falhas
 - Integrações telecom, VoLTE e conectividade IoT
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [Telco Provisioning Platform](https://github.com/b1elzin/telco-provisioning-platform)
 
 Plataforma de orquestração de provisionamento multi-fornecedor com processamento assíncrono, idempotência, recuperação de falhas e dashboard operacional.
 
 `TypeScript` `Node.js` `React` `Event-driven architecture` `Observability`
+
+### [Legacy Provisioning Migration](https://github.com/b1elzin/legacy-provisioning-migration)
+
+Migração gradual de um pipeline crítico usando Strangler Pattern, compatibilidade de contratos, idempotência, retries, callbacks e replay de dead letters.
+
+`TypeScript` `Node.js` `Queues` `Strangler Pattern` `Resilience`
 
 ## Experiência aplicada
 
