@@ -1,8 +1,8 @@
 # Helcio Almeida
 
-### Engenheiro de Software | Arquitetura Backend | Sistemas Distribuídos
+### Engenheiro de Software Full Stack | Arquitetura de Sistemas | Sistemas Distribuídos
 
-Projeto e evoluo plataformas críticas, transformando integrações complexas em sistemas resilientes, observáveis e escaláveis.
+Desenvolvo produtos de ponta a ponta e evoluo plataformas críticas, transformando integrações complexas em sistemas resilientes, observáveis e escaláveis.
 
 Tenho experiência em telecom, provisionamento, M2M/IoT e cloud, atuando da definição da arquitetura à sustentação em produção.
 
@@ -11,6 +11,7 @@ Tenho experiência em telecom, provisionamento, M2M/IoT e cloud, atuando da defi
 - Arquitetura orientada a eventos e integração entre serviços
 - Modernização de sistemas legados e migração gradual
 - APIs resilientes, idempotência e processamento assíncrono
+- Aplicações web e dashboards operacionais
 - Observabilidade, rastreabilidade e recuperação de falhas
 - Integrações telecom, VoLTE e conectividade IoT
 
