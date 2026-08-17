@@ -1,52 +1,19 @@
 # Helcio Almeida
 
-### Engenheiro de Software Full Stack | Arquitetura de Sistemas | Sistemas Distribuídos
+Engenheiro de software full stack. Trabalho principalmente com TypeScript/Node.js no backend e React no frontend.
 
-Desenvolvo produtos de ponta a ponta e evoluo plataformas críticas, transformando integrações complexas em sistemas resilientes, observáveis e escaláveis.
+Minha experiência recente é com sistemas de telecom: APIs, filas, integrações entre fornecedores, observabilidade e operação em produção. Também participo das decisões de arquitetura e gosto de entender o fluxo inteiro — da tela até o serviço que executa a operação.
 
-Tenho experiência em telecom, provisionamento, M2M/IoT e cloud, atuando da definição da arquitetura à sustentação em produção.
+## Projetos
 
-## Áreas de atuação
+| Repositório | O que tem lá |
+| --- | --- |
+| [telco-provisioning-platform](https://github.com/b1elzin/telco-provisioning-platform) | API de provisionamento, processamento por fornecedor e dashboard de acompanhamento |
+| [legacy-provisioning-migration](https://github.com/b1elzin/legacy-provisioning-migration) | Compatibilidade entre contratos durante a migração de um consumidor de fila |
+| [mobile-identity-compliance](https://github.com/b1elzin/mobile-identity-compliance) | Máquina de estados para validação de identidade, webhook assinado e trilha de auditoria |
+| [ims-volte-integration](https://github.com/b1elzin/ims-volte-integration) | Orquestração de ativação VoLTE com compensação quando uma etapa falha |
+| [iot-connectivity-platform](https://github.com/b1elzin/iot-connectivity-platform) | Ativação M2M em lote, idempotência por item e fallback entre redes |
 
-- Arquitetura orientada a eventos e integração entre serviços
-- Modernização de sistemas legados e migração gradual
-- APIs resilientes, idempotência e processamento assíncrono
-- Aplicações web e dashboards operacionais
-- Observabilidade, rastreabilidade e recuperação de falhas
-- Integrações telecom, VoLTE e conectividade IoT
+## Stack
 
-## Projetos em destaque
-
-### [Telco Provisioning Platform](https://github.com/b1elzin/telco-provisioning-platform)
-
-Plataforma de orquestração de provisionamento multi-fornecedor com processamento assíncrono, idempotência, recuperação de falhas e dashboard operacional.
-
-`TypeScript` `Node.js` `React` `Event-driven architecture` `Observability`
-
-### [Legacy Provisioning Migration](https://github.com/b1elzin/legacy-provisioning-migration)
-
-Migração gradual de um pipeline crítico usando Strangler Pattern, compatibilidade de contratos, idempotência, retries, callbacks e replay de dead letters.
-
-`TypeScript` `Node.js` `Queues` `Strangler Pattern` `Resilience`
-
-### [Mobile Identity Compliance](https://github.com/b1elzin/mobile-identity-compliance)
-
-Workflow auditável de validação de identidade com restrição fail-closed, webhooks assinados, idempotência e revisão manual controlada.
-
-`TypeScript` `Node.js` `HMAC` `State Machine` `Audit Trail`
-
-### [IMS & VoLTE Integration](https://github.com/b1elzin/ims-volte-integration)
-
-Saga de ativação VoLTE com integração de perfil, IMS e roteamento, incluindo compensação automática de falhas parciais.
-
-`TypeScript` `Node.js` `Saga Pattern` `IMS` `Resilience`
-
-### [IoT Connectivity Platform](https://github.com/b1elzin/iot-connectivity-platform)
-
-Plataforma multi-tenant para ativação M2M/IoT em massa, com idempotência por dispositivo, concorrência controlada e fallback dual-network.
-
-`TypeScript` `Node.js` `Multi-tenant` `Bulk Processing` `IoT`
-
-## Tecnologias
-
-`TypeScript` · `Node.js` · `NestJS` · `React` · `SQL` · `Redis` · `SQS` · `Docker` · `Kubernetes` · `AWS`
+`TypeScript` `Node.js` `NestJS` `React` `SQL` `Redis` `SQS` `Docker` `Kubernetes` `AWS`
