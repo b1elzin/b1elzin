@@ -29,14 +29,23 @@ Migração gradual de um pipeline crítico usando Strangler Pattern, compatibili
 
 `TypeScript` `Node.js` `Queues` `Strangler Pattern` `Resilience`
 
-## Experiência aplicada
+### [Mobile Identity Compliance](https://github.com/b1elzin/mobile-identity-compliance)
 
-- Centralização e evolução de fluxos de provisionamento
-- Integração de serviços IMS e VoLTE
-- Jornadas regulatórias de validação de identidade
-- Modernização de plataformas M2M e IoT
-- Conectividade dual IMSI e roteamento multi-fornecedor
-- Migração segura de pipelines legados para arquiteturas orientadas a eventos
+Workflow auditável de validação de identidade com restrição fail-closed, webhooks assinados, idempotência e revisão manual controlada.
+
+`TypeScript` `Node.js` `HMAC` `State Machine` `Audit Trail`
+
+### [IMS & VoLTE Integration](https://github.com/b1elzin/ims-volte-integration)
+
+Saga de ativação VoLTE com integração de perfil, IMS e roteamento, incluindo compensação automática de falhas parciais.
+
+`TypeScript` `Node.js` `Saga Pattern` `IMS` `Resilience`
+
+### [IoT Connectivity Platform](https://github.com/b1elzin/iot-connectivity-platform)
+
+Plataforma multi-tenant para ativação M2M/IoT em massa, com idempotência por dispositivo, concorrência controlada e fallback dual-network.
+
+`TypeScript` `Node.js` `Multi-tenant` `Bulk Processing` `IoT`
 
 ## Tecnologias
 
