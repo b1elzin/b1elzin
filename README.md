@@ -62,10 +62,11 @@
 | Project | Focus |
 | --- | --- |
 | [telco-provisioning-platform](https://github.com/b1elzin/telco-provisioning-platform) | Multi-provider provisioning API and operations dashboard |
-| [legacy-provisioning-migration](https://github.com/b1elzin/legacy-provisioning-migration) | Queue-contract migration with dual-read compatibility and DLQ replay |
+| [legacy-provisioning-migration](https://github.com/b1elzin/legacy-provisioning-migration) | Provider-integration modernization and safe legacy consumer retirement |
 | [mobile-identity-compliance](https://github.com/b1elzin/mobile-identity-compliance) | Fail-closed identity state machine, signed webhooks and audit trail |
 | [ims-volte-integration](https://github.com/b1elzin/ims-volte-integration) | VoLTE activation saga with explicit compensation |
-| [iot-connectivity-platform](https://github.com/b1elzin/iot-connectivity-platform) | Bulk M2M activation, tenant idempotency and network fallback |
+| [iot-connectivity-platform](https://github.com/b1elzin/iot-connectivity-platform) | Bulk M2M activation, dual-profile connectivity and network fallback |
+| [provisioning-cutover-control-plane](https://github.com/b1elzin/provisioning-cutover-control-plane) | Capability routing, phased migration and dependency-aware releases |
 
 ## GitHub Stats
 
